@@ -2,7 +2,7 @@
   <img src="docs/app_icon.png" alt="DroidBridge Launcher" width="128" height="128">
 </p>
 
-<h1 align="center">DroidBridge Launcher</h1>
+<h1 align="center">DroidBridge Launcher OFFICIAL</h1>
 
 <p align="center">
   A Minecraft: Java Edition launcher for Android devices.
