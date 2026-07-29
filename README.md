@@ -55,8 +55,8 @@ DroidBridge Launcher provides public legal and notice pages for users and contri
 
 | Page | Link |
 | --- | --- |
-| Privacy Policy | https://dnamobilegaming.com/privacy |
-| Terms of Service | https://www.dnamobilegaming.com/terms |
+| Privacy Policy | [https://dnamobilegaming.com/privacy](https://docs.google.com/document/d/1aGLPa6tECaLEFr5rZxVBWba5CRyW3XFB/edit?usp=sharing&ouid=113792205778833825558&rtpof=true&sd=true) |
+| Terms of Service | [https://www.dnamobilegaming.com/terms](https://docs.google.com/document/d/1dsOMNtifRri551x_0skwLyPh6XtmcbUv/edit?usp=sharing&ouid=113792205778833825558&rtpof=true&sd=true) |
 | Licensing Information | https://www.dnamobilegaming.com/license |
 | Open Source Notices | [OPEN_SOURCE_NOTICES.md](OPEN_SOURCE_NOTICES.md) |
 
